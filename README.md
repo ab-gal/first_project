@@ -80,13 +80,11 @@ The Dataset was largely cleaned which made the analysis easier and straightforwa
 ## Solutions for the dataset issues
 Having encountered the above dataset issues a number of solutions were employed to address the challenges. Some of the solutions included the following:
 
-1. We used binary to solve the the Satisfaction column which was string
+1. We created a binary column based on the existent Satisfaction column, which was string.
 
 2. Aggregation and groupings were employed in relation to the Age and Flight Distance columns
 
-3. New column was created to cater for ....
-
-4. The first unreliable dataset was entirely dropped for a new dataset 
+3. One working day was missed, because of unrealiable dataset. It was a synthetic dataset, therefore it was unrealistic.
 
 # Conclussions
 
